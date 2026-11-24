@@ -1,0 +1,4 @@
+---
+title: Earthquake Statistics
+author: Kelly Loo
+---

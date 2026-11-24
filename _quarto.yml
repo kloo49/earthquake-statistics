@@ -1,0 +1,5 @@
+project:
+  output-dir: docs # renders HTML into docs/
+  execute-dir: project # executes with project as root
+  render:
+    - reports/blog-post.qmd
